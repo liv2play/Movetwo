@@ -1,0 +1,10 @@
+{
+    "name": "Movetwo",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "Movetwo.xml",
+    "author": "liv2play",
+    "minimum_firmware_version": 42
+}
