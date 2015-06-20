@@ -115,17 +115,4 @@
       </block>
     </next>
   </block>
-  <block type="movement_setmotors" id="116" inline="true" x="-311" y="183"></block>
-  <block type="movement_setmotors" id="149" inline="true" x="-430" y="451">
-    <value name="BOTHMOVLEFT">
-      <block type="math_number" id="150">
-        <field name="NUM">50</field>
-      </block>
-    </value>
-    <value name="BOTHMOVRIGHT">
-      <block type="math_number" id="151">
-        <field name="NUM">50</field>
-      </block>
-    </value>
-  </block>
 </xml>
